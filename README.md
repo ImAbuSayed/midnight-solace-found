@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-solace-found/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Midnight Solace Found](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-solace-found/) |
+| **Get License** | [Obtain a Music License for Midnight Solace Found](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-solace-found/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour the whiskey slow, dim the neon glow
+> I got nowhere else I'd rather go
+> Just your shadow dancing on my skin
+> Where the world ends and you begin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
